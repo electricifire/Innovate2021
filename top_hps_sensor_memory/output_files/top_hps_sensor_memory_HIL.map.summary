@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Apr 02 16:42:35 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : top_hps_sensor_memory_HIL
+Top-level Entity Name : top_hps_sensor_memory
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 2213
+Total pins : 150
+Total virtual pins : 0
+Total block memory bits : 42,000
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 1

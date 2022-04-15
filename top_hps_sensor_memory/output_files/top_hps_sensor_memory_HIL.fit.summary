@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sat Apr 02 16:44:08 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : top_hps_sensor_memory_HIL
+Top-level Entity Name : top_hps_sensor_memory
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 1,564 / 41,910 ( 4 % )
+Total registers : 2217
+Total pins : 150 / 314 ( 48 % )
+Total virtual pins : 0
+Total block memory bits : 42,000 / 5,662,720 ( < 1 % )
+Total RAM Blocks : 5 / 553 ( < 1 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 1 / 4 ( 25 % )
